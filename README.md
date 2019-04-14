@@ -11,8 +11,10 @@ multidimensional search key (e.g. range searches and nearest neighbour searches)
 k-d trees are a special case of binary space partitioning trees.</p>
 
 <h5>To read more about k-d tree,  
-  <a href="https://en.wikipedia.org/wiki/K-d_tree"> CLICK HERE </a>
+  <a href="https://en.wikipedia.org/wiki/K-d_tree" target="_blank"> CLICK HERE </a>
 </h5>
 
 
-<img width="740" alt="a" src="https://user-images.githubusercontent.com/25881325/56099141-73950080-5f09-11e9-9bff-232bbc67d0ad.png">
+<img 
+width="740" alt="a"
+src="https://user-images.githubusercontent.com/25881325/56099141-73950080-5f09-11e9-9bff-232bbc67d0ad.png">
